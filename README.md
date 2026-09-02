@@ -294,7 +294,7 @@ Give this project a star ⭐ on GitHub if you found it useful or interesting!
 ## 📇 Contact & Profile
 
 - **GitHub**: [@niduwara-j](https://github.com/niduwara-j)
-- **LinkedIn**: [Ninduwara Jayasiri]((https://www.linkedin.com/in/ninduwara-jayasiri-2169a33ab/))
+- **LinkedIn**: [Ninduwara Jayasiri](https://www.linkedin.com/in/ninduwara-jayasiri-2169a33ab/)
 - **Coursework**: IE2102 - Network Programming
 
 ---
