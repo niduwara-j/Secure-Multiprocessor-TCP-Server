@@ -1,0 +1,25 @@
+# Binaries and compiled objects
+server_2423
+server_4158
+*.o
+*.out
+*.exe
+
+# Application Data & Credentials Directory
+data/
+*.pass
+*.fail
+*.lock
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS / IDE metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

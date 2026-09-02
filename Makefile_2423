@@ -1,0 +1,12 @@
+CC=gcc
+CFLAGS=-Wall -g
+TARGET=server_2423
+
+all:
+	$(CC) $(CFLAGS) server_2423.c -o $(TARGET) -lcrypt
+
+run:
+	./$(TARGET)
+
+clean:
+	rm -f $(TARGET)
