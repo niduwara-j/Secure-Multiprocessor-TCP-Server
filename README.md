@@ -285,10 +285,20 @@ Verification showing zero defunct or leaked zombie processes:
 
 ---
 
-## 👨‍💻 Author
+## ⭐ Show Your Support
 
-- **Student ID**: IT24102423
-- **SID**: 1024
-- **Module**: IE2102 - Network Programming
+Give this project a star ⭐ on GitHub if you found it useful or interesting!
 
-⭐ *Feel free to star this repository if you find it helpful!*
+---
+
+## 📇 Contact & Profile
+
+- **GitHub**: [@niduwara-j](https://github.com/niduwara-j)
+- **Coursework**: IE2102 - Network Programming
+- **Student ID**: IT24102423 | **SID**: 1024
+
+---
+
+<p align="center">
+  Built with ❤️ and lots of C socket programming!
+</p>
